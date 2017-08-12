@@ -321,19 +321,20 @@ border-top: 1px solid #d6d6d6;
 
 @media all and (max-width:640px) and (min-width:381px) {
     .head-main { 
-        font-size:28px ;
+        font-size:29px ;
+
     }
-	
 
 }
 @media all and (max-width:381px) and (min-width:200px) {
+     
     .head-main { 
-        font-size:28px ;
+        font-size:29px ;
     }
 	
 	.navbar-brand{
 		float: right;
-		font-size: 15px;
+		font-size: 16px;
 	}
 	
 	.user-img{
